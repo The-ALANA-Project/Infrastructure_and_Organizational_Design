@@ -1,7 +1,10 @@
 # Strategy & Infrastructure
+<br/>
 
 ### Overview
 The ALANA Strategy & Infrastructure working group is primarily concerned with researching, designing, and developing robust infrastructure around the project and our community to ensure its longevity, continuous decentralization, and circular economy.
+<br/>
+<br/>
 
 ### Organizational Design
 Originally, stellaachenbach (founder) created ALANA as a 3D avatar to give a face to the Web3 Revolution. As ALANA grew more popular among fellow designers and creators, stellaachenbach decided to utilize this attraction to evolve the once personal project into something more meaningful. Since then, and with the support of many contributors and partners, it has transitioned from a very centralized project to a continuously decentralized one run by various members of ALANA's community. 
@@ -56,15 +59,16 @@ Our basic idea to solve this is a separation between the $Alana token and a memb
 
 ### Tools & Resources
 Some of the tools we have already developed and want to adjust for other communities to generically and freely use are:
-- **The ALANA Codex:** 
-- **The ALANA Manifesto - 10 Principles of a Good Community:**
-- **ALANA's Hot Seat:**
-- **
+- [**The ALANA Codex**](https://app.unlock-protocol.com/checkout?id=8f65c770-38a2-4e4e-ac20-7afd37da0525): An executive summary of all the meetings we do on a weekly basis (sheet summary, such as screenshots, work-in-progress images, etc.) and entirely web3-powered by utilizing Unlock Protocol in conjunction with [Darkblock.io](https://www.darkblock.io/). 
+- [**The ALANA Manifesto - 10 Principles of a Good Community**](https://www.heurio.co/dieter-rams-10-principles-of-good-design): A clearly designed value structure in the form of a Manifesto to ensure internal alignment that is communicated to new members.
+- [**ALANA's Hot Seat**](https://alanas-hot-seat.my.canva.site/non-hierarchical-coaching-initiative): A non-hierarchical coaching initiative that works peer-to-peer and means to foster a sense of belonging, while encouraging personal and professional growth within a community.
+- [**xx**]():
 
+<br/>
 </br>
 
 ### Active Members 
-*Listing the currently active members of this specific working branch participating in weekly meetings and tasks.*
+List of the currently active members of this specific working branch participating in weekly meetings and tasks:
 
 - [@stellaachenbach](https://www.linkedin.com/in/stella-achenbach-9a57722b/)
 - [@lutra](https://www.linkedin.com/in/nils-otter-a23446131/?originalSubdomain=de)
