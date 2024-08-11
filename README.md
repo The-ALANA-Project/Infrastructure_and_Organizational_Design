@@ -46,7 +46,7 @@ However, throughout the evaluation process, we became aware that more common tok
 
 In a nutshell, The Alana Project aims to bridge the aforementioned gap by developing a Tokenomics model for a Web3-empowered community project that is advancing token engineering through three key pillars: 
 
-### KPI-based Token Emission Schedule:
+### 1-KPI-based Token Emission Schedule
 As mentioned above, the $ALANA token is meant to be a reward (payment) for all active contributors in the value creation process. It is an incentive to stimulate work and activity across a dispersed group of people who maintain the integrity of the project and create products all aligned with the mission and vision. Therefore, fixed emissions or built-in mechanisms to increase the token supply may not align with the project's purpose. This problem led us to ask how contributions can be measured if contributed by different actors and for various tasks. How can we capture performance, impact, and growth from a single contribution and in balance with those of others? Our proposed solution is called [“Contribution Calculator”](https://docs.google.com/spreadsheets/d/1gPvS1HQ1t0VuWf6FvHXqB0YE8vM0fwE4-R8ydY9eTSg/edit?usp=sharing) (ongoing work in progress), a tool that correlates the individual work input into points, which will be used to determine and calculate the amount of $ALANA token a contributor can claim at the end of a season. As a consequence, we came to the conclusion that our token emission schedule needs to be KPI-based. On the demand side, the $ALANA token is influenced by the number of customers using or holding it.  
 
 Regarding the governance arena, most discussions in the current ecosystem center around token concentration and token price, with resources and motivations dispersed across various stakeholders. This leads to governance discussions and the difficult task of balancing financial power (in connection to token-based voting), expert power of the core team (in connection to agenda setting), and the inclusion rights of creators and various other stakeholders. 
@@ -56,8 +56,10 @@ Since the Alana project is meant to be a platform for creators and builders, we 
 
 To solve this predicament, we suggest separating the $ALANA token and a membership NFT with governance rights. As mentioned above, membership NFTs can be earned by actively contribute to the project on the aforementioned three different levels. We call this "proof-of-work." This membership NFT comes with different governance rights (defining the decision space) in accordance with the role that a contributor plays inside the Alana project. Furthermore, this NFT can be infused by staking the $Alana token, leading to more voting rights in connection to the distinguished role. The aim is to build a community-driven platform that fosters collaboration, sharing of best practices, and collective problem-solving among token creators and contributors as well as users and stakeholders. 
 
-- **Social Layer Canvas:** 
-- **Educational Empowerment for Content Creation:** 
+### 2-Social Layer Canvas 
+
+
+### Educational Empowerment for Content Creation
 
 
 ## Tools & Resources
@@ -65,7 +67,6 @@ Some of the tools we have already developed and want to adjust for other communi
 - [**The ALANA Codex**](https://app.unlock-protocol.com/checkout?id=8f65c770-38a2-4e4e-ac20-7afd37da0525): An executive summary of all the meetings we do on a weekly basis (sheet summary, such as screenshots, work-in-progress images, etc.) and entirely web3-powered by utilizing Unlock Protocol in conjunction with [Darkblock.io](https://www.darkblock.io/). 
 - [**The ALANA Manifesto - 10 Principles of a Good Community**](https://www.heurio.co/dieter-rams-10-principles-of-good-design): A clearly designed value structure in the form of a Manifesto to ensure internal alignment that is communicated to new members.
 - [**ALANA's Hot Seat**](https://alanas-hot-seat.my.canva.site/non-hierarchical-coaching-initiative): A non-hierarchical coaching initiative that works peer-to-peer and means to foster a sense of belonging, while encouraging personal and professional growth within a community.
-- [**xx**]():
 
 <br/>
 </br>
