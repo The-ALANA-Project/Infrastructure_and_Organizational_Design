@@ -11,11 +11,23 @@ The ALANA Strategy & Infrastructure working group is primarily concerned with re
 
 ### Token Engineering
 
-Since the beginning of The ALANA Project, we have been determined to continuously decentralize the project and build a token economy around it to guarantee its longevity. But we were missing three important factors, which I am listing in the chronological order we have tackled them over the past two years:
+Since the beginning of The ALANA Project, we have been determined to continuously decentralize the project and build a token economy around it to guarantee its longevity. But we were missing three important factors:
 
-1. A cohesive branding from the former personal project to one that encapsulates and represents the community. You can find the successfully developed Branding Guidelines [here]().
+1. A cohesive branding from the former personal project to one that encapsulates and represents the community. You can find the successfully developed Branding Guidelines [here](https://github.com/The-ALANA-Project/Brand_Identity_and_Socials).
 2. We had to gain sufficient knowledge about the design process of a token economy. We did this by joining the Token Engineering Academy and completing most of the available modules. An example here is the [public profile of founder stellaachenbach](https://tokenengineering.net/user/6347fcfcca6f14ab120b0049/).
-3. We had to establish and vote on an organizational structure that enabled fairness and equality based on contribution, not financial investment.
+3. We had to establish and vote on an organizational structure that enabled fairness and equality based on contribution, not financial investment. As mentioned above, we did so by designing various tools that promote transparency and meticulously defining stakeholder roles. 
+
+Over the past two years, we have worked hard and successfully on all three factors and are now ready to design our token economy. We know several Web3-based projects have failed due to badly designed Tokenomics, so we are taking an appropriate amount of time to work through a detailed token evaluation process. With our acquired token engineering skills (three team members have attended the Token Engineering Academy successfully), we are carefully evaluating the token along the [Tokenomics Design Canvas](https://tokenomics-guide.notion.site/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9).
+
+However, throughout the evaluation process, we became aware that more common token models share a strong focus on being used within an AMM (automated market maker)/ DeFi-related applications. Since The Alana Project is oriented towards educational empowerment and aims to foster intrinsic motivation we had to adjust several components so far and develop tools on top. We want to avoid that our designed system tips the balance and ensure that only active contributions over monetary resources are being valued.
+
+In a nutshell, The Alana Project aims to bridge the forementioned gap by developing a Tokenomics model for a Web3-empowered community project that is advancing token engineering through three key pillars: 
+- KPI-based token emission schedule
+- Social Infrastructure Design Canvas
+- Educational empowerment for content creation. 
+
+
+
 </br>
 
 ### Active Members 
