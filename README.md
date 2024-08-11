@@ -83,7 +83,7 @@ We are convinced that social infrastructure will foster a collaborative environm
 
 <br/>
 
-**In sum, The ALANA Project aims to further develop token engineering by providing a blueprint for creative commons and work cooperatives designed along the framework and principles of Token Engineering. By connecting a newly developed contribution calculator to the token emissions, a membership-based governance process (valuing futarchy), and a practitioner guide to handling the social layer of DAOs, we want to create a more inclusive, secure, and innovative future for token engineering. That is why we seek funding to bring this vision to life and to drive meaningful progress in communities beyond our own.**
+**In sum, The ALANA Project aims to further develop token engineering (on Optimism) by providing a blueprint for creative commons and work cooperatives designed along the framework and principles of Token Engineering. By connecting a newly developed contribution calculator to the token emissions, a membership-based governance process (valuing futarchy), and a practitioner guide to handling the social layer of DAOs, we want to create a more inclusive, secure, and innovative future for token engineering. That is why we seek funding to bring this vision to life and to drive meaningful progress in communities beyond our own.**
 
 <br/>
 
