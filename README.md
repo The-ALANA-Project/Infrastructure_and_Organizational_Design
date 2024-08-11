@@ -57,30 +57,29 @@ Since The ALANA Project is meant to be a platform for creators and builders, we 
 - How can we implement a governance mechanism that safeguards the influence of creators and contributors (governance token)?
 - How can we implement a tradeable token that can be used as a means of payment for the products and services that The ALANA Project offers (utility token)? 
 
-To solve this predicament, we suggest separating the $ALANA token and a membership NFT with governance rights. As mentioned above, membership NFTs can be earned by actively contributing to the project on the aforementioned three different levels. We call this "proof-of-work." This membership NFT comes with different governance rights (defining the decision space) in accordance with a contributor's role in The ALANA Project. Furthermore, this NFT can be infused by staking the $ALANA, leading to more voting rights in connection to the distinguished role.
+To solve this predicament, we suggest separating the $ALANA token and a membership NFT with governance rights. As mentioned above, membership NFTs can be earned by actively contributing to the project on the aforementioned three different levels. We call this "proof-of-work." This membership NFT comes with different governance rights (defining the decision space) in accordance with a contributor's role in The ALANA Project. Furthermore, this NFT can be infused by staking the $ALANA, leading to more voting rights connected to the distinguished role.
 
 <br/>
 
-### 2-Social Layer of DAOs
-Successful token engineering requires collaboration and the sharing of diverse perspectives. While there are already many tools that DAOs can use for the technical and managerial part of project development (like DAOs as a Service), there is hardly any information or guidance on how to develop the social layer of DAOs or communities in general.  
-
-In the making of our tools, the experience as one of the few communities that is launching a token last we decided to build a guide for the foundation of a decentralized social infrastructure that includes:
-- A case study and documentation of the founding process and organizational development 
-- The full report of a [survey](https://app.deform.cc/form/7457af08-a7a5-4b81-a40a-2099e0c24217) about the social aspects of living in a DAO community 
-- Mentorship programs that connect novice contributors to experienced content creators
-- The Development of an open-source “Social Layer DAO Canvas” that can be utilized by others
-
-This social infrastructure will foster a collaborative environment where best practices are developed and disseminated, driving innovation and ensuring the sustainable growth of the contributors. 
-
-<br/>
-
-### 3-The "Dedication Flywheel"
+### 2-The "Dedication Flywheel"
 Beyond the aforementioned, we want to incentive three things in ALANA and potentially reward:
 1. The continuous willingness to learn and improve one's skill with The ALANA Project (as a creator and builder)
 2. The "holding" and use of our onchain products and tools
 3. The ongoing participation in ALANA activities that support and help the community (Keyword: Ultimate Supporter) 
 
 For all three of these actions, we suggest reward emission, which we call the "Dedication Flywheel," to reward commitment and loyalty as virtues. 
+
+<br/>
+
+### 3-Social Layer of DAOs
+Successful token engineering requires collaboration and the sharing of diverse perspectives. While there are already many tools that DAOs can use for the technical and managerial part of project development (like DAOs as a Service), there is hardly any information or guidance on how to develop the social layer of DAOs or communities in general.  
+
+In the making of our tools, the experience as one of the few communities that is launching a token last, we decided to build a guide for the foundation of a decentralized social infrastructure that includes:
+- A case study and documentation of the founding process and organizational development 
+- The full report of a [survey](https://app.deform.cc/form/7457af08-a7a5-4b81-a40a-2099e0c24217) about the social aspects of living and working the "DAO Lifestyle" 
+- The Development of an open-source “Social Layer DAO Canvas” that can be freely utilized beyond our community. This tool will be a website-based modular guide to help others build and foster their community in the same manner we did and continue to do.
+
+This social infrastructure will foster a collaborative environment where best practices are developed and disseminated, driving innovation and ensuring the sustainable growth of the contributors. 
 
 <br/>
 
