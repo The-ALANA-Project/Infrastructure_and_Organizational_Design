@@ -61,7 +61,16 @@ To solve this predicament, we suggest separating the $ALANA token and a membersh
 
 <br/>
 
-### 2-Social Layer DAO Canvas 
+### 2-Social Layer of DAOs
+Successful token engineering requires collaboration and the sharing of diverse perspectives. While there are already many tools that DAOs can use for the technical and managerial part of project development (like DAOs as a Service), there is hardly any information or guidance on how to develop the social layer of DAOs or communities in general.  
+
+In the making of our tools, the experience as one of the few communities that is launching a token last we decided to build a guide for the foundation of a decentralized social infrastructure that includes:
+- A case study and documentation of the founding process and organizational development 
+- The full report of a [survey](https://app.deform.cc/form/7457af08-a7a5-4b81-a40a-2099e0c24217) about the social aspects of living in a DAO community 
+- Mentorship programs that connect novice contributors to experienced content creators
+- The Development of an open-source “Social Layer DAO Canvas” that can be utilized by others
+
+This social infrastructure will foster a collaborative environment where best practices are developed and disseminated, driving innovation and ensuring the sustainable growth of the contributors. 
 
 <br/>
 
