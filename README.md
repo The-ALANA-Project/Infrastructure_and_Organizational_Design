@@ -62,7 +62,7 @@ To solve this predicament, we suggest separating the $ALANA token and a membersh
 <br/>
 
 ### 2-The "Dedication Flywheel"
-Beyond the aforementioned, we want to incentivice three elements in ALANA and potentially reward:
+Beyond the aforementioned, we want to incentivize three elements in ALANA and potentially reward:
 1. The continuous willingness to learn and improve one's skill with The ALANA Project (as a creator and builder)
 2. The "holding" and use of our onchain products and tools
 3. The ongoing participation in ALANA activities that support and help the community (Keyword: Ultimate Supporter) 
@@ -72,18 +72,18 @@ For all three of these actions, we suggest reward emission, which we call the "D
 <br/>
 
 ### 3-Social Layer of DAOs
-Successful token engineering requires collaboration and the sharing of diverse perspectives. While there are already many tools that DAOs can use for the technical and managerial part of project development (like DAOs as a Service), there is hardly any information or guidance on how to develop the social layer of DAOs or communities in general.  
+Successful token engineering requires collaboration and the sharing of diverse perspectives. While there are already many tools that DAOs can use for the technical and managerial part of project development (like DAOs as a Service), there is hardly any information or guidance on how to develop the social layer of DAOs or communities.  
 
-In the making of our tools, the experience as one of the few communities that is launching a token last, we decided to build a guide for the foundation of a decentralized social infrastructure that includes:
+In the making of our tools and the experiences gathered (as a currently token-free community), we decided to build a guide for the foundation of a decentralized social infrastructure that includes:
 - A case study and documentation of the founding process and organizational development 
 - The full report of a [survey](https://app.deform.cc/form/7457af08-a7a5-4b81-a40a-2099e0c24217) about the social aspects of living and working the "DAO Lifestyle" 
 - The Development of an open-source “Social Layer DAO Canvas” that can be freely utilized beyond our community. This tool will be a website-based modular guide to help others build and foster their community in the same manner we did and continue to do.
 
-This social infrastructure will foster a collaborative environment where best practices are developed and disseminated, driving innovation and ensuring the sustainable growth of the contributors. 
+We are convinced that social infrastructure will foster a collaborative environment where best practices are developed and disseminated, driving innovation and ensuring the sustainable growth of the contributors. 
 
 <br/>
 
-**In sum, The ALANA Project aims to further develop token engineering by providing a blueprint for creative commons and work cooperatives designed along the framework and principles of Token Engineering. By connecting a newly developed contribution calculator to the token emission process, a membership-based governance process that can be expanded to the concept of futarchy, and a practitioner guide to handle the social layer of DAOs, we want to contribute to the creation of a more inclusive, secure, and innovative future for token engineering. We seek funding to bring this vision to life and to drive meaningful progress in communities beyond our own.**
+**In sum, The ALANA Project aims to further develop token engineering by providing a blueprint for creative commons and work cooperatives designed along the framework and principles of Token Engineering. By connecting a newly developed contribution calculator to the token emissions, a membership-based governance process (valuing futarchy), and a practitioner guide to handling the social layer of DAOs, we want to create a more inclusive, secure, and innovative future for token engineering. That is why we seek funding to bring this vision to life and to drive meaningful progress in communities beyond our own.**
 
 <br/>
 
